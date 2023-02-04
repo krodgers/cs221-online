@@ -2,13 +2,16 @@ package lesson;
 
 /**
  * Demonstrates the correct and incorrect way to compare objects
- * @author: TODO
+ * @author: krodgers
  */
 
 public class App {
 
     public static void main(String[] args) {
 
+	// Create three shirt objects
+	// tshirt and dressShirt are considered equal, since they have
+	// the same size
 	Shirt tshirt = new Shirt(Shirt.Size.SMALL);
 	Shirt gymShirt = new Shirt(Shirt.Size.LARGE);
 	Shirt dressShirt = new Shirt(Shirt.Size.SMALL);
@@ -31,7 +34,8 @@ public class App {
 
 	System.out.println("tshirt < gymShirt:");
 	System.out.println((tshirt.compareTo(gymShirt) < 0) ? "Yes" : "No");
-	
+	// the line above uses a ternary operator
+	// condition ? resultIfTrue : restultIfFalse
 	
     }
 }
