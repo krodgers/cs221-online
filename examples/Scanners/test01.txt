@@ -1,0 +1,15 @@
+Moth in the machine: Debugging the origins of 'bug'
+
+Word nerds trace the word bug to an old term for a monster -- it's a
+word that has survived in obscure terms like bugaboo and bugbear and
+in a mangled form in the word boogeyman. Like gremlins in machinery,
+system bugs are malicious. Anyone who spends time trying to get all
+the faults out of a system knows how it feels: After a few hours of
+debugging, any problems that remain are hellspawn, mocking attempts to
+get rid of them with a devilish glee.
+
+And that's the real origin of the term "bug." But we think the tale of
+the moth in the relay is worth retelling anyway.
+
+
+Excerpt from: https://www.computerworld.com/article/2515435/moth-in-the-machine--debugging-the-origins-of--bug-.html
